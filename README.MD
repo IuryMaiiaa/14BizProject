@@ -1,1 +1,0 @@
-#Esse repositório pertence ao projeto 14Biz
