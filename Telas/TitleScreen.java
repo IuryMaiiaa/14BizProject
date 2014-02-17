@@ -2,6 +2,7 @@ package Telas;
 
 import static config.DeviceSettings.screenHeight;
 import static config.DeviceSettings.screenWidth;
+import static config.DeviceSettings.screenResolution;
 import org.cocos2d.layers.CCLayer;
 import org.cocos2d.layers.CCScene;
 import org.cocos2d.nodes.CCDirector;
